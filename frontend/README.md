@@ -35,8 +35,17 @@ Build for production:
 npm run build
 ```
 ## Project Structure
-
+```
 frontend/
+├── node_modules/
+├── resilienciq-dashboard/
+│   ├── .gitignore          
+│   ├── eslint.config
+│   ├── vite.config         
+│   ├── package
+│   ├── package-lock          
+│   ├── README.md          
+│   └── index.html        
 ├── src/
 │   ├── App.jsx          # Main application component
 │   ├── main.jsx         # React entry point
@@ -45,7 +54,7 @@ frontend/
 ├── tailwind.config.js   # Tailwind configuration
 ├── vite.config.js       # Vite configuration
 └── package.json         # Dependencies
-
+```
 ## Demo Flow
 
 1.Login with any role (Executive / Analyst / SME)
