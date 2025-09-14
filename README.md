@@ -26,7 +26,27 @@ Multi-Stakeholder Value:
 - Advanced Authentication: Multi-factor authentication (MFA), role-based access control (Admin, Analyst, SME), encrypted sessions.
 - OpenAPI + OpenAI Integration: Exposes interactive endpoints where users can query predictive analytics, simulate compliance shocks, or forecast inventory using OpenAI reasoning. Essential for hackathon demonstration, allows judges and users to test and interact with the system live.
 
-### 4. Technology Stack
+### 4. Core Modules 
+
+1. Supply Chain Intelligence
+
+GraphX Modeling: Visualize complex supply chain dependencies
+Disruption Simulation: Test impact of various shock scenarios
+Risk Scoring: AI-powered vulnerability assessment
+
+2. Compliance Monitoring
+
+Real-time Alerts: Instant compliance violation detection
+Data Lineage Tracking: Monitor data flows across systems
+Regulatory Mapping: GDPR, CCPA, and cross-border compliance
+
+3. SME Optimization
+
+Demand Forecasting: MLlib-powered inventory optimization
+CSV Data Upload: Easy integration with existing systems
+Predictive Analytics: Prevent understocking/overstocking
+
+### 5. Technology Stack
 
 1. Frontend (Web Application)
 React.js (Vite) → Fast, component-driven UI.
@@ -58,7 +78,7 @@ CI/CD → GitHub Actions + ArgoCD.
 Monitoring → Prometheus + Grafana.
 
 
-### 5. Deliverables (Demo-Ready)
+### 6. Deliverables (Demo-Ready)
 Web Application → Dark theme dashboard.
 Backend API → Flask + Express + OpenAI integrated endpoints.
 OpenAPI/Swagger Hub → Interactive demo-ready endpoints.
@@ -68,7 +88,11 @@ Simulation Graph → Supply chain shock scenario.
 Compliance Alerts Panel → Real-time mock streaming alert.
 Authentication Module → JWT + MFA + RBAC.
 
-### 6. Conclusion
+Frontend: http://localhost:3000
+Flask API: http://localhost:5000
+Express API: http://localhost:8000
+
+### 7. Conclusion
 ResiliencIQ is a next-gen web application unifying global risk intelligence, compliance monitoring, and SME optimization. Its uniqueness lies in predictive resilience intelligence, backend robustness with Flask, Express, Kafka, hybrid databases, and interactive OpenAPI endpoints powered by OpenAI, making it ideal for hackathon presentation.
 Tagline: ResiliencIQ – Anticipate, Simulate, and Thrive in Global Uncertainty.
 
