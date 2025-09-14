@@ -1,0 +1,1 @@
+# ResiliencIQ---Web-Application-for-Global-Risk-Compliance-and-Supply-Chain-Intelligence
