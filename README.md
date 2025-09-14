@@ -37,7 +37,7 @@ This is the Express.js backend for the ResiliencIQ web application, handling aut
    For development with auto-reload:
 
    ```
-   npm run dev
+   npm run server
    ```
 
 ## API Endpoints
