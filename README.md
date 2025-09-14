@@ -1,5 +1,4 @@
-# ResiliencIQ - Web Application for Global Risk Compliance and Supply Chain Intelligence 
-# (OpenAI Academy x NxtWave Buildathon)
+# ResiliencIQ - Web Application for Global Risk Compliance and Supply Chain Intelligence (OpenAI Academy x NxtWave Buildathon)
 
 ### 1. Introduction
 ResiliencIQ is a web-based platform designed to provide predictive risk intelligence, compliance monitoring, and supply chain simulation. The goal is to deliver an enterprise-grade yet accessible solution that empowers decision-makers, SMEs, and regulators to proactively identify vulnerabilities, simulate “what-if” scenarios, and optimize operations. Unlike traditional dashboards that only display descriptive analytics, ResiliencIQ combines real-time data streams, AI-driven forecasting, interactive simulation models, and OpenAI-powered endpoints via OpenAPI to provide actionable intelligence, enabling intelligent responses to real-time scenarios.
