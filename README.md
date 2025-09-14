@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ResiliencIQ Express Backend
 
 This is the Express.js backend for the ResiliencIQ web application, handling authentication, routing, RESTful APIs, user services, and real-time pipelines.
