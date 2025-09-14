@@ -30,21 +30,21 @@ Multi-Stakeholder Value:
 
 1. Supply Chain Intelligence
 
-GraphX Modeling: Visualize complex supply chain dependencies
-Disruption Simulation: Test impact of various shock scenarios
-Risk Scoring: AI-powered vulnerability assessment
+- GraphX Modeling: Visualize complex supply chain dependencies
+- Disruption Simulation: Test impact of various shock scenarios
+- Risk Scoring: AI-powered vulnerability assessment
 
 2. Compliance Monitoring
 
-Real-time Alerts: Instant compliance violation detection
-Data Lineage Tracking: Monitor data flows across systems
-Regulatory Mapping: GDPR, CCPA, and cross-border compliance
+- Real-time Alerts: Instant compliance violation detection
+- Data Lineage Tracking: Monitor data flows across systems
+- Regulatory Mapping: GDPR, CCPA, and cross-border compliance
 
 3. SME Optimization
 
-Demand Forecasting: MLlib-powered inventory optimization
-CSV Data Upload: Easy integration with existing systems
-Predictive Analytics: Prevent understocking/overstocking
+- Demand Forecasting: MLlib-powered inventory optimization
+- CSV Data Upload: Easy integration with existing systems
+- Predictive Analytics: Prevent understocking/overstocking
 
 ### 5. Technology Stack
 
