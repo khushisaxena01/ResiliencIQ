@@ -57,13 +57,13 @@ frontend/
 ```
 ## Demo Flow
 
-1.Login with any role (Executive / Analyst / SME)
-2.Dashboard displays real-time intelligence overview
-3.Explore supply chain graph and simulate disruptions
-4.Check compliance alerts and monitoring panels
-5.Upload CSV in SME Forecast panel to view AI predictions
-6.Run scenarios in Risk Simulation Lab
-7.Monitor live alerts in real time
+- Login with any role (Executive / Analyst / SME)
+- Dashboard displays real-time intelligence overview
+- Explore supply chain graph and simulate disruptions
+- Check compliance alerts and monitoring panels
+- Upload CSV in SME Forecast panel to view AI predictions
+- Run scenarios in Risk Simulation Lab
+- Monitor live alerts in real time
 
 ## Tech Stack
 
